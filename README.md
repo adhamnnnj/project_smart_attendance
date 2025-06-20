@@ -1,7 +1,5 @@
 # project_smart_attendance
 @@ -1 +1,60 @@
-# project_smart_attendance
-# project_smart_attendance
 # 📱 Smart Attendance System Using BLE Beacons & Flutter App
 
 A mobile attendance system that uses **Bluetooth Low Energy (BLE) beacons** and a **Flutter** app to automate and track student attendance in real-time. The app integrates with **Firebase** for authentication and data storage.
